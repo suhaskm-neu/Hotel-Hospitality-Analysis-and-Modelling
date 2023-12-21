@@ -40,7 +40,7 @@ Seasonal trends in ADR were analyzed to understand the impact of time-related fa
 
 ## Getting Started 🚀
 To run this project locally:
-1. **Clone the Repo:** `git clone https://github.com/suhas-km/Hotel-Booking-Data-Science.git`
+1. **Do Consider Cloning the Repo:** `git clone https://github.com/suhas-km/Hotel-Booking-Data-Science.git`
 
 ## Contributing 🤝
 Contributions are welcome! Please do consider cloning and contributing. Do reach out to me for details, and the process for submitting pull requests.
