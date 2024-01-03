@@ -1,0 +1,2 @@
+All input variables and its different types
+
